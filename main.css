@@ -2,6 +2,7 @@ html, body {
   height: 100vh !important;
   padding:0 !important;
   margin:0 !important;
+  background-image: image();
 
 }
 
@@ -22,4 +23,14 @@ html, body {
   position: relative !important;
   margin-left: 95% !important;
   margin-top: 150% !important;
+}
+
+.bar
+{
+  position: relative !important;
+  margin-top: 50vh !important;
+  margin-left: 50vh !important;
+  width:140px;
+
+
 }
