@@ -4,3 +4,5 @@ var menu = new Vue({
     nom: 'Tony Gorez'
   }
 })
+
+ $('.carousel.carousel-slider').carousel({fullWidth: true});
